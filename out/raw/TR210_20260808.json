@@ -1,0 +1,64 @@
+{
+  "sessions": [
+    {
+      "index": 1,
+      "start": "09:37:20",
+      "end": "10:14:00",
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "start": "10:14:30",
+      "end": "10:20:19",
+      "confidence": "low"
+    },
+    {
+      "index": 3,
+      "start": "11:17:50",
+      "end": "11:18:33",
+      "confidence": "low"
+    },
+    {
+      "index": 4,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 5,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 6,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 7,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 8,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 9,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 10,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    }
+  ]
+}

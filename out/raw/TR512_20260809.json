@@ -1,0 +1,16 @@
+{
+  "sessions": [
+    {
+      "index": 1,
+      "start": "09:50:34",
+      "end": "12:44:07",
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "start": "12:57:47",
+      "end": "15:03:17",
+      "confidence": "low"
+    }
+  ]
+}

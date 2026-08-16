@@ -1,0 +1,32 @@
+# Deploy 機器上用這個。image 已經含 timeline.json，不用放任何資料檔。
+#
+#   docker compose pull && docker compose up -d
+#
+# 想換資料又不想重 build，把 timeline.json 放旁邊，
+# 然後解開下面 volumes 與 TIMELINE_PATH 兩行。
+
+services:
+  coscup-transcript-timeline:
+    image: ${IMAGE:-image.prod.tw/coscup-transcript-timeline:latest}
+    container_name: coscup-transcript-timeline
+    restart: unless-stopped
+    ports:
+      - "${PORT:-3000}:3000"
+    environment:
+      PORT: "3000"
+      MIN_CONFIDENCE: "${MIN_CONFIDENCE:-none}"
+      # TIMELINE_PATH: /data/timeline.json
+    # volumes:
+    #   - ./timeline.json:/data/timeline.json:ro
+    healthcheck:
+      test:
+        - CMD
+        - python3
+        - -c
+        - |
+          import urllib.request, sys
+          sys.exit(0 if urllib.request.urlopen("http://127.0.0.1:3000/api/v1/health", timeout=4).status == 200 else 1)
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s

@@ -1,0 +1,2282 @@
+{
+  "AU": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:30:00+08:00",
+        "end": "2026-08-08T11:00:00+08:00",
+        "title": "Creating containers like Michelangelo",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:00:00+08:00",
+        "end": "2026-08-08T11:30:00+08:00",
+        "title": "Ubuntu Touch Progress Update 2026",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:40:00+08:00",
+        "end": "2026-08-08T12:10:00+08:00",
+        "title": "From Autotest to Avocado: Modernizing System Testing on Ubuntu",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:40:00+08:00",
+        "end": "2026-08-08T14:10:00+08:00",
+        "title": "Juju Does Everything. Here Is What That Is Like.",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:10:00+08:00",
+        "end": "2026-08-08T14:40:00+08:00",
+        "title": "From Big Data to ML: Integrating Spark and Kubeflow with Juju",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:00:00+08:00",
+        "end": "2026-08-08T15:30:00+08:00",
+        "title": "Kubernetes Is Not a Platform: Building One with Juju",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:54:12+08:00",
+        "end": "2026-08-09T10:13:55+08:00",
+        "title": "Observe and evaluate LLM Coding Agents",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T10:13:55+08:00",
+        "end": "2026-08-09T10:44:42+08:00",
+        "title": "AI 也要期中考？ The Story Behind Building a Benchmark for Agent Workflow Development",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:47:23+08:00",
+        "end": "2026-08-09T11:05:50+08:00",
+        "title": "Wiring AI Agents to the Real World: The Integration Layer Nobody Talks About",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:14:59+08:00",
+        "end": "2026-08-09T11:47:40+08:00",
+        "title": "Building an MCP Server Using Postgres",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:48:41+08:00",
+        "end": "2026-08-09T12:16:22+08:00",
+        "title": "Hybrid AI: The Next Pattern for AI-Powered Apps",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T12:59:09+08:00",
+        "end": "2026-08-09T13:07:42+08:00",
+        "title": "COCA MCP: Learning English While Chatting with an LLM",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T13:34:43+08:00",
+        "end": "2026-08-09T13:52:24+08:00",
+        "title": "你的 LLM App 上線第一天就該做的三件事（但你可能一件都沒做）",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T14:09:51+08:00",
+        "end": "2026-08-09T14:32:13+08:00",
+        "title": "AlphaCouncil：用 Google ADK ＋ 開源模型打造多代理人辯論式台股分析系統——資料在地化 × 模型在地化",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:39:58+08:00",
+        "end": "2026-08-09T14:57:45+08:00",
+        "title": "給 OpenClaw（龍蝦）控制你的 Home Assistant 智能家居，會發生甚麼事？",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:58:19+08:00",
+        "end": "2026-08-09T15:14:03+08:00",
+        "title": "自己的 AI agent dashboard 自己刻——ccxray 實作筆記",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:14:33+08:00",
+        "end": "2026-08-09T15:26:36+08:00",
+        "title": "異議喵！你的冷知識來源不足：用 AI Agent 打造冷知識審判與卡牌對戰系統",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T15:26:36+08:00",
+        "end": "2026-08-09T15:40:00+08:00",
+        "title": "RAG 落地實踐：用開源 LLM 打造高資安、零門檻的台灣公司情報搜尋系統",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T15:52:46+08:00",
+        "end": "2026-08-09T15:57:40+08:00",
+        "title": "打開就能工作的 AI Agent：Aileron 的 Workspace 設計實踐",
+        "confidence": "low"
+      }
+    ]
+  },
+  "RB101": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:30:00+08:00",
+        "end": "2026-08-08T11:30:00+08:00",
+        "title": "Deploy a 12-factor application of your choice end-to-end!",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:40:00+08:00",
+        "end": "2026-08-08T12:10:00+08:00",
+        "title": "Invisible Debugging for Docker Workloads on Ubuntu GCP: eBPF in Action",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:48:53+08:00",
+        "end": "2026-08-08T14:52:44+08:00",
+        "title": "Snap 軟體打包入門",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T15:04:45+08:00",
+        "end": "2026-08-08T15:42:25+08:00",
+        "title": "snappy-debug: demystify and extend snapd",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:59:50+08:00",
+        "end": "2026-08-09T10:42:25+08:00",
+        "title": "Making Postgres Central in Your Data Center",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:46:00+08:00",
+        "end": "2026-08-09T11:27:05+08:00",
+        "title": "Index best practice and hypothetical indexes in PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:30:20+08:00",
+        "end": "2026-08-09T12:01:40+08:00",
+        "title": "When Life Gives You Containers, Make an Open Source RDS: A Kubernetes Love Story",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:15:15+08:00",
+        "end": "2026-08-09T12:54:55+08:00",
+        "title": "I Didn't Know Postgres Could Do That!",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:03:55+08:00",
+        "end": "2026-08-09T13:36:15+08:00",
+        "title": "My Journey from First Patch to PostgreSQL Significant Contributor",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:44:45+08:00",
+        "end": "2026-08-09T14:17:11+08:00",
+        "title": "在中国建设 PostgreSQL 开源社区：从本地用户到全球协作",
+        "confidence": "high"
+      }
+    ]
+  },
+  "RB102": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:52:42+08:00",
+        "end": "2026-08-08T11:17:12+08:00",
+        "title": "How to integrate Python, Grovvy, PostgreSQL and NiFi to complete hardware factors collection?",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T11:30:12+08:00",
+        "end": "2026-08-08T12:01:10+08:00",
+        "title": "From JOINs to Graph Thinking: Practical SQL/PGQ in PostgreSQL",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:16:14+08:00",
+        "end": "2026-08-08T12:39:44+08:00",
+        "title": "How OpenEverest Transformed From Single Vendor to Vendor Neutral to CNCF Sandbox Project",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:59:55+08:00",
+        "end": "2026-08-08T13:29:40+08:00",
+        "title": "PostgreSQL on Oracle Cloud: Open Source Databases, Managed Infrastructure, and the AI-Native Application Stack",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:45:20+08:00",
+        "end": "2026-08-08T14:14:38+08:00",
+        "title": "數與量在資訊系統中的正確建模與應用",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:38:03+08:00",
+        "end": "2026-08-08T15:29:25+08:00",
+        "title": "從碎片記憶到事件推演：以 PostgreSQL 驅動 SAG 動態超邊推論引擎",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:00:28+08:00",
+        "end": "2026-08-09T10:31:52+08:00",
+        "title": "我用 OWASP Top 10 掃了 Gemma 4，這是成績單",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:45:17+08:00",
+        "end": "2026-08-09T11:19:36+08:00",
+        "title": "Evolution of flutter_gemma: From a Simple Wrapper to a Cross-Platform AI Engine",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:30:19+08:00",
+        "end": "2026-08-09T12:06:16+08:00",
+        "title": "用Antigravity 2.0 /IDE 打造你的Telegram 小助手",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:40:05+08:00",
+        "end": "2026-08-09T14:00:12+08:00",
+        "title": "Jindong: Introducing Declarative Haptics in Jetpack Compose",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:19:53+08:00",
+        "end": "2026-08-09T15:02:40+08:00",
+        "title": "AI 時代的 Developer Experience：我們如何用 Gemini 打造 LINE Bot Developer Assistant",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:02:40+08:00",
+        "end": "2026-08-09T15:35:16+08:00",
+        "title": "Multi-Agents 真的會比較會抓 Bug 嗎？用 ADK × Antigravity 在 GEAP 打造 Debugging War Room (串接 OpenAB)",
+        "confidence": "high"
+      }
+    ]
+  },
+  "RB105": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:00:00+08:00",
+        "end": "2026-08-08T09:30:00+08:00",
+        "title": "COSCUP x UbuCon Asia 2026: Welcome Day 1",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T09:57:07+08:00",
+        "end": "2026-08-08T10:08:36+08:00",
+        "title": "[Prime Session] The Invisible Architecture: From Kernel Patches to Global AI",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:20:13+08:00",
+        "end": "2026-08-08T10:42:14+08:00",
+        "title": "明明只是想遠端控制我的主機，結果一不小心就做出一套開源 USB / IP KVM 的這件事",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:55:00+08:00",
+        "end": "2026-08-08T11:25:00+08:00",
+        "title": "LanParty千人打遊戲，用開源Router打造全亞洲最大網咖",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:30:00+08:00",
+        "end": "2026-08-08T12:00:00+08:00",
+        "title": "design and implementation of a next-gen. DAW sequencer engine for desktop, mobile and web",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T13:30:00+08:00",
+        "title": "Designing a Cross-Disciplinary Engineering Community Through Anime",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:35:00+08:00",
+        "end": "2026-08-08T14:05:00+08:00",
+        "title": "A Modern Open-Source Stack for Robotics Side Projects",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:10:00+08:00",
+        "end": "2026-08-08T14:40:00+08:00",
+        "title": "從 ROS 到 Rust：Hiroz、Zenoh，以及一個用 `cargo build` 就能建置的機器人通訊框架",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:45:00+08:00",
+        "end": "2026-08-08T15:15:00+08:00",
+        "title": "編輯器的歷史、現況與未來：從 Electron 到 Rust 與 GPU 驅動的現代化架構 (以 Zed 為例)",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:45:00+08:00",
+        "end": "2026-08-08T16:30:00+08:00",
+        "title": "[Prime Session] Becoming an Open-Source Coder - why & how",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T16:35:00+08:00",
+        "end": "2026-08-08T16:45:00+08:00",
+        "title": "Recap Day 1",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:00:00+08:00",
+        "end": "2026-08-09T09:10:00+08:00",
+        "title": "COSCUP x UbuCon Asia 2026: Welcome Day 2",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T09:10:00+08:00",
+        "end": "2026-08-09T09:40:00+08:00",
+        "title": "[Prime Session] From Taiwan-LLM to the Frontier: What Open Source Taught Me, and Why I Still Miss It",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T09:45:00+08:00",
+        "end": "2026-08-09T10:15:00+08:00",
+        "title": "Agent 很方便，但有些 PR 我還是想自己寫",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:20:00+08:00",
+        "end": "2026-08-09T10:50:00+08:00",
+        "title": "open-slide：從騎車時的靈感到衝上 GitHub Trending",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:55:00+08:00",
+        "end": "2026-08-09T11:25:00+08:00",
+        "title": "makeslide: NotebookLM 不夠好用？那就自己做一個語音簡報生成工具",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:30:00+08:00",
+        "end": "2026-08-09T12:00:00+08:00",
+        "title": "AI模型的文化盲區─探討AI測試標準的開源現況觀察與難題",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T13:00:00+08:00",
+        "end": "2026-08-09T13:30:00+08:00",
+        "title": "Beyond the Code: Defining Open Source AI",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T13:35:00+08:00",
+        "end": "2026-08-09T14:05:00+08:00",
+        "title": "From Annotation Tools to Real-World AI: My Open-Source Journey with Labelme, Medical Imaging, and Industrial Vision",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T14:15:00+08:00",
+        "end": "2026-08-09T14:45:00+08:00",
+        "title": "The Evolution of AI Agents in E-Commerce: From Chatbots to Autonomous Transactions",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T15:25:15+08:00",
+        "end": "2026-08-09T16:09:05+08:00",
+        "title": "[Prime Session] Building Bridges from Asia to Global Open Source",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T16:13:40+08:00",
+        "end": "2026-08-09T17:18:36+08:00",
+        "title": "Closing X ⚡Lightning talk / 閃電秀 ⚡",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR209": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:09:34+08:00",
+        "end": "2026-08-08T10:44:12+08:00",
+        "title": "誰貢獻，誰決定 AI 的未來  ──開源如何成為臺灣 AI 戰略的關鍵拼圖",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:50:27+08:00",
+        "end": "2026-08-08T11:22:17+08:00",
+        "title": "Securing the Open Source Telco Cloud: SBOMs, Supply Chains, and Compliance at Scale",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:36:04+08:00",
+        "end": "2026-08-08T12:10:00+08:00",
+        "title": "企業開源治理的守門人：從 OpenSSF Scorecard 到 S2C2F 的實踐之路",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:00:35+08:00",
+        "end": "2026-08-08T13:35:31+08:00",
+        "title": "開源是免費的嗎？從 CNCF 大使視角看人才、企業、政策三方困境",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:39:55+08:00",
+        "end": "2026-08-08T14:31:35+08:00",
+        "title": "一起來聊聊數位發展部的《公部門開源軟體應用參考手冊》吧！",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:41:13+08:00",
+        "end": "2026-08-08T15:14:43+08:00",
+        "title": "從草莽到廟堂：開放原始碼如何走進歐盟和聯合國",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:21:20+08:00",
+        "end": "2026-08-08T15:49:09+08:00",
+        "title": "以CRA為例討論產品資安合規下的開源議題 (OSS Issue Map under CRA)",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T16:00:10+08:00",
+        "end": "2026-08-08T16:28:28+08:00",
+        "title": "Your Container Images Are a Liability: The Supply Chain Debt Nobody Is Paying Down",
+        "confidence": "low"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:10:46+08:00",
+        "end": "2026-08-09T10:31:40+08:00",
+        "title": "網路域名基礎建設背後的自由與開源軟體",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T10:41:27+08:00",
+        "end": "2026-08-09T11:21:39+08:00",
+        "title": "揭秘審查演算法：談平台治理政策之前，先來開源平台的審查演算法吧",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:31:11+08:00",
+        "end": "2026-08-09T12:18:35+08:00",
+        "title": "年齡驗證、數位監控、隱私權，討論這些以前，不妨先開源吧",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:52:13+08:00",
+        "end": "2026-08-09T13:56:37+08:00",
+        "title": "政府採購如何使用開源？為何開源",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:03:39+08:00",
+        "end": "2026-08-09T14:48:06+08:00",
+        "title": "開盒資訊公務員：投入政府服務的資訊人員在想什麼呢？",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:56:19+08:00",
+        "end": "2026-08-09T15:25:51+08:00",
+        "title": "為什麼開源難以進入標案體系",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:35:05+08:00",
+        "end": "2026-08-09T16:05:44+08:00",
+        "title": "數位權利基本法：一場以民間立法推進開源政策的行動實驗",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR210": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:37:20+08:00",
+        "end": "2026-08-08T10:14:00+08:00",
+        "title": "How MySQL Is Evolving: Open Roadmaps, Community Collaboration, and New Ways to Contribute",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:14:30+08:00",
+        "end": "2026-08-08T10:20:19+08:00",
+        "title": "綜覽新一代MySQL長期支持版- MySQL 9.7",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T11:17:50+08:00",
+        "end": "2026-08-08T11:18:33+08:00",
+        "title": "Planning your upgrade to MySQL 9.7",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T11:30:00+08:00",
+        "end": "2026-08-08T12:10:00+08:00",
+        "title": "從零打造一個 MySQL-based RAG 系統：VECTOR 型別實戰、工程取捨與 pgvector 對照",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T12:10:00+08:00",
+        "end": "2026-08-08T12:50:00+08:00",
+        "title": "【維運生存戰】迎戰 MySQL 8.0 EOL，我們該如何利用 OCI 特性進行「無感升級」？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:30:00+08:00",
+        "end": "2026-08-08T14:00:00+08:00",
+        "title": "Will Postgres Live Forever?",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:05:00+08:00",
+        "end": "2026-08-08T14:35:00+08:00",
+        "title": "對我們的客戶來說，SaaS 開源重要嗎？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:40:00+08:00",
+        "end": "2026-08-08T15:10:00+08:00",
+        "title": "從 GitHub Stars 到企業客戶：WrenAI 的開源與商業化",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:15:00+08:00",
+        "end": "2026-08-08T15:45:00+08:00",
+        "title": "堅持開源之道的公司怎麼賺錢長大活了2X年？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:50:00+08:00",
+        "end": "2026-08-08T16:20:00+08:00",
+        "title": "開公司推廣開源，有搞頭嗎？",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:00:00+08:00",
+        "end": "2026-08-09T11:00:00+08:00",
+        "title": "Controlling Ubuntu with Local LLM: A Practical System Using Structured Tool Interfaces",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:11:35+08:00",
+        "end": "2026-08-09T12:04:20+08:00",
+        "title": "Self-Hosting 101: A real-time self-hosting workshop",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:20:10+08:00",
+        "end": "2026-08-09T14:30:00+08:00",
+        "title": "動手玩 OpenClaw：在你的 Ubuntu 筆電上用 Juju + LXD 架出自己的 Telegram AI 機器人",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:42:55+08:00",
+        "end": "2026-08-09T15:08:30+08:00",
+        "title": "Rebuilding Ubuntu Nepal: A Playbook for Reviving Open Source Communities",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR211": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:36:14+08:00",
+        "end": "2026-08-08T10:00:50+08:00",
+        "title": "開源即興程式表演：哪裡找資源和社群？",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:10:00+08:00",
+        "end": "2026-08-08T10:41:00+08:00",
+        "title": "Developers: Start Contributing Now!",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:49:15+08:00",
+        "end": "2026-08-08T11:21:35+08:00",
+        "title": "當設計思維遇上開源營運：讓志工更優雅協作的小工具實踐",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:29:35+08:00",
+        "end": "2026-08-08T12:01:40+08:00",
+        "title": "教學管理平台擴充工具的開放標準：談 LTI 1.3 的機制、應用與實踐",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T13:30:00+08:00",
+        "title": "开发者体验：开源贡献的新重点",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:39:23+08:00",
+        "end": "2026-08-08T14:10:40+08:00",
+        "title": "Building AI-Powered Interactive Maps with Open Data 如何使用開放資料建構 AI 驅動的互動式地圖",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:20:41+08:00",
+        "end": "2026-08-08T14:43:50+08:00",
+        "title": "Building fraud detection infrastructure for the unprotected: open-source fintech from Nepal",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:04:39+08:00",
+        "end": "2026-08-08T15:31:30+08:00",
+        "title": "The Internet of Money: Building Open Financial Bridges with Interledger",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:36:55+08:00",
+        "end": "2026-08-08T15:52:35+08:00",
+        "title": "歐洲的開源遷移實況——亞洲為什麼該關注",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:06:50+08:00",
+        "end": "2026-08-09T10:28:19+08:00",
+        "title": "Gaming on Linux with Ubuntu and Proton",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:29:30+08:00",
+        "end": "2026-08-09T11:02:15+08:00",
+        "title": "Zero-Trust Workloads with Confidential Containers on Ubuntu",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:11:10+08:00",
+        "end": "2026-08-09T11:40:37+08:00",
+        "title": "IT@School, or how we renounced the proprietary and chose free software",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:41:50+08:00",
+        "end": "2026-08-09T12:09:49+08:00",
+        "title": "Implementing immutability & atomicity within desktop Linux",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:23:50+08:00",
+        "end": "2026-08-09T13:58:55+08:00",
+        "title": "From Community Need to Solution: The Story of Open Forms",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:01:05+08:00",
+        "end": "2026-08-09T14:24:00+08:00",
+        "title": "Local Real-Time Subtitles on Ubuntu with Moonshine and Pympress",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:40:30+08:00",
+        "end": "2026-08-09T15:20:25+08:00",
+        "title": "在臺灣的外籍 Linux 桌面使用者生存指南",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:22:00+08:00",
+        "end": "2026-08-09T15:47:30+08:00",
+        "title": "Bringing AI to RISC-V: From Edge Devices to Developer-Ready Systems",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR212": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:57:32+08:00",
+        "end": "2026-08-08T09:59:45+08:00",
+        "title": "A Prompt Is Not All You Need：用開源工具打造 LLM 合成資料管線",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:05:41+08:00",
+        "end": "2026-08-08T10:18:30+08:00",
+        "title": "另一種 Encoding 方法：將語意檢索從O(n²)變成O(n)",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:30:07+08:00",
+        "end": "2026-08-08T10:56:00+08:00",
+        "title": "從 PyTorch 到硬體：wait what? 甚麼是 LLM 編譯器...?",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:00:14+08:00",
+        "end": "2026-08-08T11:33:00+08:00",
+        "title": "YAML is the New Dockerfile: Building AI Agent Systems with Docker cagent",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:34:56+08:00",
+        "end": "2026-08-08T12:01:40+08:00",
+        "title": "在 FPGA 上從 RTL 到 Token 走過 LLM 推理全流程",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:04:05+08:00",
+        "end": "2026-08-08T12:21:34+08:00",
+        "title": "突破 FP64 限制：AdaptiveGEMM 透過 INT8 Tensor Core 在消費級 GPU 逼近 A100 效能",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:29:46+08:00",
+        "end": "2026-08-08T13:12:23+08:00",
+        "title": "可解釋性與應用：人類的最終防線",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:29:12+08:00",
+        "end": "2026-08-08T14:02:26+08:00",
+        "title": "使用 PyTorch 從零量化 YOLOX",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T14:02:26+08:00",
+        "end": "2026-08-08T14:30:00+08:00",
+        "title": "From Experiments to Dashboards: Modernizing Visdom for Open AI Workflows / 從實驗到儀表板：為開放 AI 工作流程現代化 Visdom",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:34:37+08:00",
+        "end": "2026-08-08T16:42:09+08:00",
+        "title": "迷你 AI 黑客松 (Mini AI Hackathon)：打造一個能做一件實事的 Agent",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T10:00:00+08:00",
+        "title": "從共讀到開源共創：Twinkle AI 熬夜書坊的 LLM 實戰與在地化模型應用",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:00:00+08:00",
+        "end": "2026-08-09T10:30:00+08:00",
+        "title": "Twinkle Eval：打造繁體中文 LLM 開源評測工具",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:40:00+08:00",
+        "end": "2026-08-09T11:10:00+08:00",
+        "title": "讓台灣原生 LLM 長出在地語氣：用 Twinkle AI 4B 打造「星光型小零」",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:10:00+08:00",
+        "end": "2026-08-09T11:40:00+08:00",
+        "title": "Benign Outliers 對 Twinkle AI 模型安全對齊之影響研究",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:40:00+08:00",
+        "end": "2026-08-09T12:10:00+08:00",
+        "title": "在地的模型當然要可以跑在地端",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T12:59:36+08:00",
+        "end": "2026-08-09T13:27:52+08:00",
+        "title": "Tweet AI to the Edge",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:40:08+08:00",
+        "end": "2026-08-09T14:00:49+08:00",
+        "title": "解救被封印的 PDF—一起來打造臺灣的 FinePDFs 資料集吧",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:12:40+08:00",
+        "end": "2026-08-09T14:45:32+08:00",
+        "title": "PDF 解封之後—一起動手打造 Classifier 吧",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:50:56+08:00",
+        "end": "2026-08-09T15:34:33+08:00",
+        "title": "根據 Google Gemma 4 模型與 Google ADK 打造自己的 AI Agent",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR213": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:13:45+08:00",
+        "end": "2026-08-08T10:35:10+08:00",
+        "title": "Architecting Trusted Execution on RISC-V: Worlds, WorldGuard and Supervisor Domains",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:38:58+08:00",
+        "end": "2026-08-08T11:16:48+08:00",
+        "title": "Linux Kernel Tracing Internals",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T11:20:15+08:00",
+        "end": "2026-08-08T12:04:00+08:00",
+        "title": "反正都要抄答案了，為什麼不用AI做？分享用AI工具移植Linux驅動到u-boot上的經驗",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:10:00+08:00",
+        "end": "2026-08-08T12:47:15+08:00",
+        "title": "Beyond epoll: Rethinking High-Performance Network Runtime with io_uring",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:50:30+08:00",
+        "end": "2026-08-08T13:26:40+08:00",
+        "title": "How a VM Draws Pixels: Mesa, Gallium, and virtio-gpu 3D",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:30:55+08:00",
+        "end": "2026-08-08T13:49:25+08:00",
+        "title": "The Illusion of Hardware: How Modern Virtual Machines Work",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:10:40+08:00",
+        "end": "2026-08-08T14:48:05+08:00",
+        "title": "USB MITM: Building a Transparent USB Proxy with raw-gadget and libusb",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:51:05+08:00",
+        "end": "2026-08-08T15:30:00+08:00",
+        "title": "從 Test-and-Set 到 NUMA-aware Locks：重新思考現代硬體上的 Spinlocks",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:34:30+08:00",
+        "end": "2026-08-08T16:04:45+08:00",
+        "title": "Box64 in Action: Playing x86-64 Steam Games on ARM64 / RISC-V with Dynamic Binary Translation",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T10:00:00+08:00",
+        "title": "Learn and Play with sched_ext",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:10:00+08:00",
+        "end": "2026-08-09T10:40:00+08:00",
+        "title": "LAVD: From Gaming to Server Fleets — a BPF Scheduler for Cloud, ML, and Edge",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:50:00+08:00",
+        "end": "2026-08-09T11:20:00+08:00",
+        "title": "藉由 sched_ext 客製化低延遲 CPU 排程器",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:30:00+08:00",
+        "end": "2026-08-09T12:00:00+08:00",
+        "title": "c4c: the smallest full feature C++ compiler for x86, arm and RISC-V based xPU",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T12:50:00+08:00",
+        "end": "2026-08-09T13:24:00+08:00",
+        "title": "動態連結的考量和實踐：以 shecc 為例",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:29:30+08:00",
+        "end": "2026-08-09T13:57:15+08:00",
+        "title": "從個人電腦到資料中心：Linux 記憶體管理的演化",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:10:00+08:00",
+        "end": "2026-08-09T14:32:20+08:00",
+        "title": "Linux as a Guest OS: Apple Silicon's Virtualization Infrastructure",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:30:30+08:00",
+        "end": "2026-08-09T15:59:45+08:00",
+        "title": "ThorVG 1.0：SVG 與 Lottie 的跨平台渲染實務",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR214": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:00:00+08:00",
+        "end": "2026-08-08T16:00:00+08:00",
+        "title": "[BoF] Available: Book your topic here",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:59:48+08:00",
+        "end": "2026-08-09T10:31:29+08:00",
+        "title": "From 1 to 100: Building a Cost-Efficient Cloud Dev Environment with LXC and Containarium",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:40:19+08:00",
+        "end": "2026-08-09T11:16:34+08:00",
+        "title": "Bare-metal without the Metal: Emulating IPMI and Redfish for KubeVirt VMs",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:20:50+08:00",
+        "end": "2026-08-09T11:51:27+08:00",
+        "title": "Running Multiple AI Workloads on One GPU with HAMi: Architecture and Gotchas",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:42:37+08:00",
+        "end": "2026-08-09T14:15:20+08:00",
+        "title": "用 Go 讀懂 Disruptor：從源碼理解高效能 Ring Buffer 的設計哲學",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:20:13+08:00",
+        "end": "2026-08-09T14:54:53+08:00",
+        "title": "邁向 Agentic SRE：以 kagent 與 A2A 協議建構自主化 K8s 維運",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:59:55+08:00",
+        "end": "2026-08-09T15:42:08+08:00",
+        "title": "Olares OS: cloud native comes home",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR309 教室外走廊": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:30:00+08:00",
+        "end": "2026-08-08T16:00:00+08:00",
+        "title": "Hacking Corner 1 DAY1",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T16:00:00+08:00",
+        "title": "Hacking Corner 1 DAY2",
+        "confidence": "none"
+      }
+    ]
+  },
+  "TR310-2": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:00:00+08:00",
+        "end": "2026-08-08T11:00:00+08:00",
+        "title": "[BoF] Getting Started with COSCUP: A First-timer’s Orientation",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:00:00+08:00",
+        "end": "2026-08-08T12:00:00+08:00",
+        "title": "[BoF] vLLM",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T14:00:00+08:00",
+        "title": "[BoF] Creative Coding Jam",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:00:00+08:00",
+        "end": "2026-08-08T15:00:00+08:00",
+        "title": "[BoF] Wikipedia Lightning Edit Hour 維基百科快閃編輯聚",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T11:00:00+08:00",
+        "end": "2026-08-09T12:00:00+08:00",
+        "title": "Ubuntu Circles BoF",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T12:00:00+08:00",
+        "end": "2026-08-09T13:00:00+08:00",
+        "title": "[BoF] 開源圈子裡的產品人午餐聚 (第四屆！)",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T13:00:00+08:00",
+        "end": "2026-08-09T14:00:00+08:00",
+        "title": "[BoF] What Is Local AI Actually For?",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T14:00:00+08:00",
+        "end": "2026-08-09T15:00:00+08:00",
+        "title": "[BoF] 來聊聊 CodeMirror 6，網頁技術驅動的文字編輯器框架",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T15:00:00+08:00",
+        "end": "2026-08-09T16:00:00+08:00",
+        "title": "[BoF] Wrap up: COSCUP26 參與心得交流、如何加入籌辦團隊、成為講者",
+        "confidence": "none"
+      }
+    ]
+  },
+  "TR311": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:29:16+08:00",
+        "end": "2026-08-08T09:59:15+08:00",
+        "title": "用 Signals 重新認識 Angular：寫給新手的現代框架導覽",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:04:44+08:00",
+        "end": "2026-08-08T10:20:16+08:00",
+        "title": "實踐 Web 開發的技術平權：以 Local LLM 和 JS Runtime 打造人人可及的離線開發教室",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:40:00+08:00",
+        "end": "2026-08-08T11:10:00+08:00",
+        "title": "AI 跑得越快，我們反而越容易在螢幕前迷路？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:15:00+08:00",
+        "end": "2026-08-08T11:45:00+08:00",
+        "title": "打造能自己變準的 AI 搜尋系統",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T13:30:00+08:00",
+        "title": "AI Agent 探索：多角色任務處理 Agent",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:35:00+08:00",
+        "end": "2026-08-08T14:05:00+08:00",
+        "title": "我把自己寫的開源 SDD 工具丟到 15 個專案實測：一份 AI 開發 dogfooding 誠實清單",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:10:00+08:00",
+        "end": "2026-08-08T14:40:00+08:00",
+        "title": "從政府 Open Data 到城市探索網站：用 Nuxt 3、Codex 與 GitHub Actions 打造北北桃中公園地圖",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:45:00+08:00",
+        "end": "2026-08-08T15:15:00+08:00",
+        "title": "同個 Email、兩種登入方式 — Node.js + Google 登入整合的四個帳號接管路徑",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:28:19+08:00",
+        "end": "2026-08-09T09:57:20+08:00",
+        "title": "Build-Time Magic: How the React Compiler Supercharges Your App",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:05:10+08:00",
+        "end": "2026-08-09T10:35:52+08:00",
+        "title": "前端工程師也能做互動藝術：用 JavaScript、Canvas 與 TouchDesigner 打開創作的大門",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:41:40+08:00",
+        "end": "2026-08-09T11:13:44+08:00",
+        "title": "Tridactyl - 像個 vim 高手與 JS 開發者一樣使用 Firefox",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:15:41+08:00",
+        "end": "2026-08-09T11:35:19+08:00",
+        "title": "自架 centrifugo 實作即時通知機制",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:57:16+08:00",
+        "end": "2026-08-09T12:16:37+08:00",
+        "title": "把遊戲塞進 13KB：js13kGames 的極限壓縮實戰",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:00:36+08:00",
+        "end": "2026-08-09T13:34:02+08:00",
+        "title": "From Word & Excel to JavaScript: Transition Learning Programming Concepts",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:55:07+08:00",
+        "end": "2026-08-09T14:37:29+08:00",
+        "title": "Agent 可以平行，我不行",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:40:36+08:00",
+        "end": "2026-08-09T15:11:21+08:00",
+        "title": "你早已身處 UnJS 宇宙，只是還不知道",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:15:06+08:00",
+        "end": "2026-08-09T15:46:18+08:00",
+        "title": "不只是 Canvas：React + Phaser 的前端遊戲架構實戰",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR313": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:00:00+08:00",
+        "end": "2026-08-08T10:40:00+08:00",
+        "title": "讓漏洞自己結案：純開源工具鏈打造 DevSecOps 閉環實戰",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T10:50:00+08:00",
+        "end": "2026-08-08T12:20:00+08:00",
+        "title": "世界咖啡館 - AI 時代的開源安全：台灣社群可以怎麼一起補位？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:20:00+08:00",
+        "end": "2026-08-08T14:50:00+08:00",
+        "title": "From Prompt to Root",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:59:55+08:00",
+        "end": "2026-08-08T15:47:54+08:00",
+        "title": "Personal AI Assistant's Attack and Defense",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:59:50+08:00",
+        "end": "2026-08-08T16:41:51+08:00",
+        "title": "Building an OODA-Native Red Team Platform Where AI Commands the Kill Chain",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:00:00+08:00",
+        "end": "2026-08-09T10:40:00+08:00",
+        "title": "：好的 正在幫您下載 VScode 惡意擴充套件｜從 GlassWorm 看開發環境供應鏈攻擊",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:51:00+08:00",
+        "end": "2026-08-09T12:28:40+08:00",
+        "title": "Panel - 開源供應鏈攻擊實務：從惡意套件、開發工具到企業風險管理",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:20:30+08:00",
+        "end": "2026-08-09T14:59:00+08:00",
+        "title": "自我演化的 Agent 部隊 一名高中生的 CTF 與漏洞挖掘戰術手冊",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:05:00+08:00",
+        "end": "2026-08-09T15:47:40+08:00",
+        "title": "用 CPG 與 LLM 把靜態掃描工具的誤報砍掉——開源混合式漏洞驗證框架實戰",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR409 教室外走廊": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:30:00+08:00",
+        "end": "2026-08-08T16:00:00+08:00",
+        "title": "Hacking Corner 2 DAY1",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T16:00:00+08:00",
+        "title": "Hacking Corner 2 DAY2",
+        "confidence": "none"
+      }
+    ]
+  },
+  "TR409-2": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:14:15+08:00",
+        "end": "2026-08-08T10:34:28+08:00",
+        "title": "用 zhtw-mcp 搭配 AI 寫出更像台灣人的中文 | Write Taiwanese Mandarin: zhtw-mcp as a Linguistic Linter for Traditional Chinese",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:39:31+08:00",
+        "end": "2026-08-08T11:10:13+08:00",
+        "title": "Git 繁體中文翻譯流程治理實戰",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:11:18+08:00",
+        "end": "2026-08-08T11:38:30+08:00",
+        "title": "用社群的力量打造服務所有人的 App：翻譯平台整合撞牆談",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:59:56+08:00",
+        "end": "2026-08-08T12:23:28+08:00",
+        "title": "以 OpenRefine 加上 Python，實作臺灣台語的地名半自動處理",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:30:41+08:00",
+        "end": "2026-08-08T13:02:42+08:00",
+        "title": "提供 KDE 台文翻譯的嘗試",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:10:28+08:00",
+        "end": "2026-08-08T14:15:36+08:00",
+        "title": "一起來翻譯！translatewiki × MediaWiki翻譯功能工作坊",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:17:59+08:00",
+        "end": "2026-08-08T14:30:01+08:00",
+        "title": "MediaWiki暨維基媒體專案臺灣原住民族語言峰會",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:31:05+08:00",
+        "end": "2026-08-08T15:31:43+08:00",
+        "title": "MediaWiki暨維基媒體專案漢語族語言峰會",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T10:00:00+08:00",
+        "title": "Laravel 實戰：用 hash 比對實作以圖搜圖",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:10:04+08:00",
+        "end": "2026-08-09T10:40:43+08:00",
+        "title": "(Compiler) Homun-lang: A Rust-Based Scripting Language for AI-Native Developing",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:50:43+08:00",
+        "end": "2026-08-09T11:20:45+08:00",
+        "title": "Is Microsoft Agent Framework \"LangGraph for Enterprise\"? A Source Code Deep Dive",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:30:24+08:00",
+        "end": "2026-08-09T12:00:55+08:00",
+        "title": "UXN - A Computer at Human Scale",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:10:19+08:00",
+        "end": "2026-08-09T12:43:03+08:00",
+        "title": "分層剖析 Linux 核心如何觀測頁面存取並推論 Working Set",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:50:15+08:00",
+        "end": "2026-08-09T13:19:10+08:00",
+        "title": "Open-Source AI Infrastructure That People Can Actually Run: Lessons from Building a Local Sovereign Cloud",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:30:21+08:00",
+        "end": "2026-08-09T14:02:10+08:00",
+        "title": "從 Page Reclaim 看 User-space Semantic Gap",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:10:08+08:00",
+        "end": "2026-08-09T14:42:10+08:00",
+        "title": "帶上你的 Coding Agent，我們現場替 Zed Editor 送一個 PR 吧",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:49:47+08:00",
+        "end": "2026-08-09T15:22:15+08:00",
+        "title": "透過ClaudeCode，Gemini Cli，Codex來瞭解harness",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:30:13+08:00",
+        "end": "2026-08-09T15:57:40+08:00",
+        "title": "開始貢獻 Linux Kernel 的第一步，關於申請 Linux Kernel Mentorship Program 經驗談",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR410": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:00:38+08:00",
+        "end": "2026-08-08T10:22:15+08:00",
+        "title": "My broken English still works: speaking at global OSS events",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:40:33+08:00",
+        "end": "2026-08-08T11:03:29+08:00",
+        "title": "How My Daily Life Changed After Discovering LibreOffice",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:20:33+08:00",
+        "end": "2026-08-08T12:09:20+08:00",
+        "title": "From Events to Relationships: Building Connections Across Asian Open Source Communities",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:59:48+08:00",
+        "end": "2026-08-08T13:32:09+08:00",
+        "title": "在AI時代，我們為何仍需要教授應用程式開發，以及FOSS為何重要？",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:40:22+08:00",
+        "end": "2026-08-08T15:40:32+08:00",
+        "title": "[BoF] 如何養大你自己的開源專案？ — 一場關於維持、擴展與培養貢獻者的 BoF",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:00:00+08:00",
+        "end": "2026-08-09T10:30:00+08:00",
+        "title": "How is the Wikimedia Movement in Japan Operating? Navigating Community, Collaboration, and the AI Era",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:40:00+08:00",
+        "end": "2026-08-09T11:10:00+08:00",
+        "title": "使用 CSS Logical Properties 讓你的 Web App 支援 RTL 版面 / Adding Right-to-Left support to your web application with CSS logical properties — Lessons from Redmine",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:20:00+08:00",
+        "end": "2026-08-09T11:50:00+08:00",
+        "title": "WebXR current position and beyond to the Recommendation",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T12:59:00+08:00",
+        "end": "2026-08-09T13:24:58+08:00",
+        "title": "Yuino: OSS kana-kanji conversion system that combines LLM and a dictionary-based approach",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:39:05+08:00",
+        "end": "2026-08-09T14:00:58+08:00",
+        "title": "Translating Open Source Lessons with AI (Without Breaking Them)",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:20:10+08:00",
+        "end": "2026-08-09T14:45:25+08:00",
+        "title": "From SPY×FAMILY to Evolving Knowledge Graphs: Tracking Wikipedia Changes with Neo4j and LLMs",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR411": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:30:00+08:00",
+        "end": "2026-08-08T10:20:00+08:00",
+        "title": "我國和全球AI模型之發展與開源進程比較",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T10:20:00+08:00",
+        "end": "2026-08-08T10:50:00+08:00",
+        "title": "開源人工智慧的定義、風險與治理",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:00:00+08:00",
+        "end": "2026-08-08T11:30:00+08:00",
+        "title": "關於開放原始碼 x 人工智慧，聯合國怎麼說？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:30:00+08:00",
+        "end": "2026-08-08T12:00:00+08:00",
+        "title": "邁向可信任 AI：開發者必備的 Agents 偏見檢測與緩解框架",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T13:30:00+08:00",
+        "title": "Open source, open voice: the power of FOSS in supporting citizen participation",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:30:00+08:00",
+        "end": "2026-08-08T14:00:00+08:00",
+        "title": "Engineer Cafe 的開源接待系統:一個可複製的在地與全球協作典範",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:00:00+08:00",
+        "end": "2026-08-08T14:30:00+08:00",
+        "title": "AI Sovereignty in Practice: From Taiwan Benchmark to Production Payment Agents",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:50:00+08:00",
+        "end": "2026-08-08T15:20:00+08:00",
+        "title": "生成式 AI 時代的公民開發治理：從業務創新到企業納管",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:20:00+08:00",
+        "end": "2026-08-08T15:50:00+08:00",
+        "title": "讓人力回歸前線：智慧排程系統的 AI 輔助開發與開源公私協力實錄",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:50:00+08:00",
+        "end": "2026-08-08T16:20:00+08:00",
+        "title": "從職缺文本到工作任務：用 n8n 與 LLM 建立任務層級的 AI Exposure 資料管線",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T10:00:00+08:00",
+        "title": "Federation Is Not Enough: Governance Patterns for the Open Social Web in East Asia",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:59:40+08:00",
+        "end": "2026-08-09T11:14:40+08:00",
+        "title": "From 0 to Fediverse",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:29:34+08:00",
+        "end": "2026-08-09T11:52:16+08:00",
+        "title": "Feder: One ActivityPub Core, Many Runtimes",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:31:55+08:00",
+        "end": "2026-08-09T13:01:51+08:00",
+        "title": "ActivityPub 1.1",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T13:01:51+08:00",
+        "end": "2026-08-09T13:25:25+08:00",
+        "title": "From One Codebase to Many Clients: How We Turn Mastodon Instances into No-Code Mobile Apps and help grow the Fediverse",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T13:30:11+08:00",
+        "end": "2026-08-09T13:58:20+08:00",
+        "title": "ActivityPlug: a unified API layer for ActivityPub server software",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T14:00:24+08:00",
+        "end": "2026-08-09T14:22:43+08:00",
+        "title": "I just wanted ruby annotations: writing in dead scripts on the living fediverse",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:30:10+08:00",
+        "end": "2026-08-09T14:45:45+08:00",
+        "title": "Vertical writing for the Mongolian script on Mastodon",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:00:08+08:00",
+        "end": "2026-08-09T15:32:16+08:00",
+        "title": "@小明@範例.測試：一個有任意語言名稱的聯邦宇宙",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:34:24+08:00",
+        "end": "2026-08-09T16:03:17+08:00",
+        "title": "From CMS to Fediverse: Drupal's ActivityPub module",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR412-1": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:00:00+08:00",
+        "end": "2026-08-08T10:30:00+08:00",
+        "title": "工程師最陌生的熟人 - 文字二三事",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T10:40:00+08:00",
+        "end": "2026-08-08T11:10:00+08:00",
+        "title": "200 行 Python 程式碼能訓練出什麼？ 詳解 Micro GPT",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T11:20:00+08:00",
+        "end": "2026-08-08T11:50:00+08:00",
+        "title": "CPython 3.15: Updates Rivals Will Use — Profiler, JIT, noGIL, Lazy Imports, UTF-8",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T12:00:00+08:00",
+        "end": "2026-08-08T12:30:00+08:00",
+        "title": "當 Release 不再靠人工：用 Python 生態打造自動化版本治理與 DevX 實戰",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:30:09+08:00",
+        "end": "2026-08-08T13:50:55+08:00",
+        "title": "open-ep: 從硬體設計到 Mainline Kernel, 一個 e-paper 社群的完整開源實踐",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:55:15+08:00",
+        "end": "2026-08-08T14:38:12+08:00",
+        "title": "從 SPI 顯示面板到 Android 螢幕：ARM64 平台的 DRM 顯示驅動整合之旅",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:40:13+08:00",
+        "end": "2026-08-08T15:02:13+08:00",
+        "title": "解密 E-paper 驅動：跨型號硬體抽象層設計與灰階 Waveform 實作",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:14:39+08:00",
+        "end": "2026-08-08T15:33:39+08:00",
+        "title": "Smart Home Displays with ePaper: A Maker’s Guide Using ESP32 and the Arduino Ecosystem",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T16:19:33+08:00",
+        "end": "2026-08-08T16:20:10+08:00",
+        "title": "Agentic AI and Rust on Linux: Accelerating Jaguar E-Ink Bring-Up with SSH, Webcams, and Yocto",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T16:22:51+08:00",
+        "end": "2026-08-08T16:56:02+08:00",
+        "title": "Streaming Images from PC to an LCD on Zephyr over USB",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T10:00:00+08:00",
+        "title": "維基數據資料嵌入專案，讓 AI 讀懂維基百科。",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:00:00+08:00",
+        "end": "2026-08-09T10:30:00+08:00",
+        "title": "Wikidata MCP: accessing the world's largest free and open knowledge graph via your LLM!",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:30:00+08:00",
+        "end": "2026-08-09T11:00:00+08:00",
+        "title": "以 Wikidata 建立的開放文獻編目",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:00:00+08:00",
+        "end": "2026-08-09T11:30:00+08:00",
+        "title": "使用強大的 JOSM - 透過 Vibe 腳本來達到批次與大量編輯開放街圖資料",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T12:58:45+08:00",
+        "end": "2026-08-09T13:21:08+08:00",
+        "title": "Join the Open Map Community: FOSS4G, State of the Map Asia, and Beyond",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:29:38+08:00",
+        "end": "2026-08-09T14:00:20+08:00",
+        "title": "Underwater Heritage as an Open Knowledge Graph with Neo4j",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:00:50+08:00",
+        "end": "2026-08-09T14:31:39+08:00",
+        "title": "我的 360 野生街景遊記",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:41:06+08:00",
+        "end": "2026-08-09T15:19:32+08:00",
+        "title": "開放內容網站的法治教育講座-匯入政策與案例探討",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR412-2": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:40:38+08:00",
+        "end": "2026-08-08T10:00:35+08:00",
+        "title": "入職第八天，我開始為 AI 寫文件",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:09:34+08:00",
+        "end": "2026-08-08T10:41:30+08:00",
+        "title": "駕馭 Scala 型別系統：在型別層打造自動機",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:50:32+08:00",
+        "end": "2026-08-08T11:24:45+08:00",
+        "title": "老闆~打包一份技能外帶！讓你的 Kotlin 開發經驗帶著走",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:31:16+08:00",
+        "end": "2026-08-08T12:02:10+08:00",
+        "title": "Cycling on KMP",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T12:45:10+08:00",
+        "end": "2026-08-08T12:51:10+08:00",
+        "title": "From Ruby to Java: Migrating a Notification Platform to Microservices",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T12:52:13+08:00",
+        "end": "2026-08-08T13:02:35+08:00",
+        "title": "Design Patterns 101",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T13:10:03+08:00",
+        "end": "2026-08-08T13:42:25+08:00",
+        "title": "Polylith：帶有函數式編程思考的軟體架構",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:48:51+08:00",
+        "end": "2026-08-08T14:21:35+08:00",
+        "title": "三招看穿偽裝的 Agent Skill！在 Android 開發中建立 AI 安全防護網",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:29:23+08:00",
+        "end": "2026-08-08T14:52:19+08:00",
+        "title": "我以為我轉生成為 AI 的 Team Lead，結果我變成了 QA 工程師",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:10:01+08:00",
+        "end": "2026-08-08T16:00:25+08:00",
+        "title": "打造你自己的 Kotlin DSL：以文字冒險遊戲為例",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:45:00+08:00",
+        "end": "2026-08-09T10:15:00+08:00",
+        "title": "軟體定義車輛（SDV）：透過開源協作推動創新",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:30:18+08:00",
+        "end": "2026-08-09T11:01:44+08:00",
+        "title": "Automotive Grade Linux: An Open Source Platform Evolving Toward Software-Defined Systems",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:15:15+08:00",
+        "end": "2026-08-09T12:02:35+08:00",
+        "title": "Eclipse SDV: Building worldwide SDV ecosystems and why open source may not be enough",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:00:58+08:00",
+        "end": "2026-08-09T13:37:01+08:00",
+        "title": "Mission impossible? How to realize a reproducible and a flexible system integration method for the SoDeV",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:44:57+08:00",
+        "end": "2026-08-09T14:18:23+08:00",
+        "title": "BSP Design for SDVs: Hypervisor and Virtualization Challenges in Decoupling",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:30:44+08:00",
+        "end": "2026-08-09T15:13:42+08:00",
+        "title": "Using Zephyr to Build Smaller Driver Domains for Virtualized Vehicle Systems",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:18:43+08:00",
+        "end": "2026-08-09T15:49:45+08:00",
+        "title": "開源軟體在行動：軟件定義汽車的實戰故事。",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR509": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:51:00+08:00",
+        "end": "2026-08-08T12:24:00+08:00",
+        "title": "Hacking Room Day 1",
+        "confidence": "low"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T12:45:51+08:00",
+        "title": "Hacking Room Day 2",
+        "confidence": "low"
+      }
+    ]
+  },
+  "TR510": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:58:20+08:00",
+        "end": "2026-08-08T10:01:15+08:00",
+        "title": "匿名網路社群 anoni.net 介紹：開源匿名工具、社群實踐與 2026 三大主題",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:10:30+08:00",
+        "end": "2026-08-08T10:53:15+08:00",
+        "title": "威脅模型與 Metadata 入門：認識你的對手，以及為什麼匿名工具要開源才可信",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:56:05+08:00",
+        "end": "2026-08-08T11:32:40+08:00",
+        "title": "現實世界的開源隱私工具：公民團體、獨立記者與個人隱私防護的實際運用",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:32:50+08:00",
+        "end": "2026-08-08T12:02:15+08:00",
+        "title": "毒品非毒、洗錢非洗錢—淺談匿名的資格驗證",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T16:30:00+08:00",
+        "title": "「匿名支付」主題議程：匿名網路社群與 Blockchain and Distributed Ledger 合辦議程主題",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:02:00+08:00",
+        "end": "2026-08-09T10:53:30+08:00",
+        "title": "The Workings of the Internet or: How Censors Block You From Websites",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:56:24+08:00",
+        "end": "2026-08-09T11:31:53+08:00",
+        "title": "以 OpenWRT 等開源軟體建立家用網路環境",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T11:34:27+08:00",
+        "end": "2026-08-09T11:36:02+08:00",
+        "title": "區塊鏈網路上基於開放標準的實體身份識別方法",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T13:00:00+08:00",
+        "end": "2026-08-09T13:30:00+08:00",
+        "title": "在學校種洋蔥？臺師大 Tor 節點建立實務與 EFF Tor University Challenge 經驗談",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T13:35:00+08:00",
+        "end": "2026-08-09T14:25:00+08:00",
+        "title": "瀏覽器追蹤技術、反追蹤策略和使用者自主",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T14:30:00+08:00",
+        "end": "2026-08-09T15:00:00+08:00",
+        "title": "健保資料庫案之後：停止利用權如何實踐？以及其他大型資料庫",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T15:05:00+08:00",
+        "end": "2026-08-09T15:55:00+08:00",
+        "title": "隱私指南 2026：貼個笑話留友看，蜥蜴人笑了，主席也笑了",
+        "confidence": "none"
+      }
+    ]
+  },
+  "TR511": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:58:25+08:00",
+        "end": "2026-08-08T10:01:30+08:00",
+        "title": "當 AI 學會當白帽駭客 – 從鏈上漏洞掃描到資金救援的全自動 Pipeline！",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:09:45+08:00",
+        "end": "2026-08-08T10:46:40+08:00",
+        "title": "AI Agent 的信任堆疊：鏈上支付、聲譽系統與可驗證計算 - 從 x402、MPP 到 ERC-8004 與 Eigencloud-style verification",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T10:52:16+08:00",
+        "end": "2026-08-08T11:01:08+08:00",
+        "title": "ACP：面向 Onchain AI Agent 經濟的通訊與交易協議",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T11:30:00+08:00",
+        "end": "2026-08-08T12:00:00+08:00",
+        "title": "從近期駭客事件看 Cross-chain Bridge 的安全模型",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T12:59:47+08:00",
+        "end": "2026-08-08T13:32:45+08:00",
+        "title": "零知識證明與自然人憑證身份驗證",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:40:25+08:00",
+        "end": "2026-08-08T14:09:45+08:00",
+        "title": "The Privacy-preserving Identity Pipeline in KYC",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:20:22+08:00",
+        "end": "2026-08-08T14:58:55+08:00",
+        "title": "從不可連結性出發：隱匿地址如何解決鏈上金融隱私 — 以 Fluidkey 為例",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:02:55+08:00",
+        "end": "2026-08-08T15:30:10+08:00",
+        "title": "我不洗錢，為何要理解匿名支付？從零開始介紹隱私加密金流交易",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:41:15+08:00",
+        "end": "2026-08-08T16:32:00+08:00",
+        "title": "隱私支付實作工作坊：從龍捲風現金到隱私池",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:00+08:00",
+        "end": "2026-08-09T10:00:00+08:00",
+        "title": "量子電腦下，Bitcoin 該何去何從？",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:10:00+08:00",
+        "end": "2026-08-09T10:40:00+08:00",
+        "title": "劇情懶人包──關於後量子交易簽章（ PQTS ）的討論",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:50:00+08:00",
+        "end": "2026-08-09T11:20:00+08:00",
+        "title": "Lattice-based Folding Scheme 入門",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:30:00+08:00",
+        "end": "2026-08-09T12:00:00+08:00",
+        "title": "ZK Made Easy：零知識證明入門",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T13:00:00+08:00",
+        "end": "2026-08-09T13:32:04+08:00",
+        "title": "Ethereum 101：新手入門與台灣社群指南",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:40:15+08:00",
+        "end": "2026-08-09T14:09:31+08:00",
+        "title": "Inside the EVM: From Architecture to Implementation",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:20:00+08:00",
+        "end": "2026-08-09T14:52:52+08:00",
+        "title": "Token 是硬幣，也是憑證：基於區塊鏈的聲譽系統的新趨勢",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:06:50+08:00",
+        "end": "2026-08-09T15:38:39+08:00",
+        "title": "ERC-7984 如何讓鏈上資產徹底隱形？",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:40:50+08:00",
+        "end": "2026-08-09T16:07:33+08:00",
+        "title": "Hyperledger Fabric 深度維運與排障指南：那些官方文件沒寫的血淚經驗",
+        "confidence": "high"
+      }
+    ]
+  },
+  "TR512": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T09:30:00+08:00",
+        "end": "2026-08-08T10:00:00+08:00",
+        "title": "研究 Linux Kernel ISA 架構移植的心路歷程",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T10:10:00+08:00",
+        "end": "2026-08-08T10:40:00+08:00",
+        "title": "x86-64 下機密運算的演進",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T10:50:00+08:00",
+        "end": "2026-08-08T11:20:00+08:00",
+        "title": "crossdev-stages, painless tool for building cross-compiler environment and board images for RISC-V and other architectures",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T13:00:00+08:00",
+        "end": "2026-08-08T14:00:00+08:00",
+        "title": "從翻車、虧損到上線：美國醫療金融新創的一手私藏大公開",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:05:00+08:00",
+        "end": "2026-08-08T14:35:00+08:00",
+        "title": "Can Students Build Their Own Cloud? What Open Source Gave Us, and What It Didn’t",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T14:40:00+08:00",
+        "end": "2026-08-08T15:10:00+08:00",
+        "title": "Running databases on Kubernetes can be easy - meet OpenEverest!",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:15:00+08:00",
+        "end": "2026-08-08T15:45:00+08:00",
+        "title": "Running gRPC in Production on Ubuntu: Scaling Microservices with Kubernetes, Observability, and Resilience",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-08T15:50:00+08:00",
+        "end": "2026-08-08T16:20:00+08:00",
+        "title": "My Flipper Zero is Useless (and Other Silly Stories)",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:50:34+08:00",
+        "end": "2026-08-09T12:44:07+08:00",
+        "title": "（中英雙語）走入正念: 職場及社群參與身心靈平衡經驗分享",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:57:47+08:00",
+        "end": "2026-08-09T15:03:17+08:00",
+        "title": "體驗火箭導控 Balloon Popping Challenge",
+        "confidence": "low"
+      }
+    ]
+  },
+  "TR513": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:13:08+08:00",
+        "end": "2026-08-08T10:30:31+08:00",
+        "title": "海纜斷光到底會怎樣？台灣常用網站的斷網韌性檢測",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:39:10+08:00",
+        "end": "2026-08-08T11:10:03+08:00",
+        "title": "從假訊息到資訊操弄：以案例理解 FIMI 與認知韌性",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:20:13+08:00",
+        "end": "2026-08-08T11:52:38+08:00",
+        "title": "抵禦資訊操弄的開源實踐：Cofacts 群眾查核平台的經驗與挑戰",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:30:03+08:00",
+        "end": "2026-08-08T14:00:25+08:00",
+        "title": "架構即憲法：以法定規格與可分叉性，確保身分驗證系統保障數位權利",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:10:00+08:00",
+        "end": "2026-08-08T14:40:00+08:00",
+        "title": "SBOMs Aren't Enough. Secure Your Software Supply Chain End-To-End",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:00:00+08:00",
+        "end": "2026-08-09T10:10:00+08:00",
+        "title": "農業開放資料社群-社群介紹",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:15:00+08:00",
+        "end": "2026-08-09T10:55:00+08:00",
+        "title": "我在農業現場: 2206永續專案窗口心得分享",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T11:00:00+08:00",
+        "end": "2026-08-09T11:40:00+08:00",
+        "title": "我在農業現場: 一個農業經理人的養成",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T13:00:00+08:00",
+        "end": "2026-08-09T13:40:00+08:00",
+        "title": "我在農業現場：永續傳承的橘子園",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T14:00:00+08:00",
+        "end": "2026-08-09T14:40:00+08:00",
+        "title": "我在農業現場-小微企業願意花錢訂閱原因：MantaGO的台日拓展經驗",
+        "confidence": "none"
+      }
+    ]
+  },
+  "TR514": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:15:00+08:00",
+        "end": "2026-08-08T10:51:17+08:00",
+        "title": "網站改版了，然後你的 Spider 就壞了：Ruby 爬蟲維護的現實",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T11:00:09+08:00",
+        "end": "2026-08-08T11:24:21+08:00",
+        "title": "從 2026 年 3 月 Rails 安全更新看三個常見的設計陷阱",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:38:40+08:00",
+        "end": "2026-08-08T12:07:12+08:00",
+        "title": "Ruby on Ruby: ruby/spec, MRI Tests, and JRuby and Living on the Edge",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:29:24+08:00",
+        "end": "2026-08-08T14:11:55+08:00",
+        "title": "Building Native Mobile Apps Using Rails",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:15:29+08:00",
+        "end": "2026-08-08T14:48:37+08:00",
+        "title": "Stoplight: Circuit Breakers for Ruby in the AI Era",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:50:00+08:00",
+        "end": "2026-08-08T15:20:00+08:00",
+        "title": "GVL 對 Rails 延遲的實戰觀測",
+        "confidence": "none"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T10:10:00+08:00",
+        "end": "2026-08-09T10:40:00+08:00",
+        "title": "你的 ruby.wasm 在手機上其實會壞",
+        "confidence": "none"
+      },
+      {
+        "start": "2026-08-09T10:52:50+08:00",
+        "end": "2026-08-09T11:37:35+08:00",
+        "title": "The Deterministic Rubyist: Taming Your AI Pair Programmer with Nix",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:40:20+08:00",
+        "end": "2026-08-09T12:10:35+08:00",
+        "title": "Locale 何處尋：從 Accept-Language 到 UGC",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:29:45+08:00",
+        "end": "2026-08-09T14:09:32+08:00",
+        "title": "聊聊 Ruby 的 ReDoS 防禦：吃瓜設計權衡、整合 Rails 實踐、窺探 Regexp 未來動向",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T14:10:00+08:00",
+        "end": "2026-08-09T14:40:00+08:00",
+        "title": "讓 AI 接管你的應用，打造微秒級無縫的 Ruby 安全沙盒",
+        "confidence": "none"
+      }
+    ]
+  },
+  "TR515": {
+    "2026-08-08": [
+      {
+        "start": "2026-08-08T10:20:54+08:00",
+        "end": "2026-08-08T10:43:23+08:00",
+        "title": "Open-Source Firmware on Framework Laptops",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-08T10:49:42+08:00",
+        "end": "2026-08-08T11:21:22+08:00",
+        "title": "Unlock BIOS from close to open",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T11:30:05+08:00",
+        "end": "2026-08-08T12:10:33+08:00",
+        "title": "Tamago capabilities and why you should run Go-based firmware",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:10:53+08:00",
+        "end": "2026-08-08T13:41:39+08:00",
+        "title": "First coreboot port - Easier than expected",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T13:45:31+08:00",
+        "end": "2026-08-08T14:17:21+08:00",
+        "title": "Evolving Arm Firmware Ecosystem - Firmware Testing and Telemetry",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T14:20:31+08:00",
+        "end": "2026-08-08T14:59:38+08:00",
+        "title": "Agentic AI for Firmware: Automate the Loop, Own the Decisions",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-08T15:01:44+08:00",
+        "end": "2026-08-08T15:44:59+08:00",
+        "title": "Porting baremetal Go and Rust to the Aspeed AST2700",
+        "confidence": "high"
+      }
+    ],
+    "2026-08-09": [
+      {
+        "start": "2026-08-09T09:30:23+08:00",
+        "end": "2026-08-09T09:31:09+08:00",
+        "title": "Open Source accelerator chip and how RISC-V plays a role",
+        "confidence": "low"
+      },
+      {
+        "start": "2026-08-09T10:11:50+08:00",
+        "end": "2026-08-09T10:45:09+08:00",
+        "title": "ECOS Studio: An RTL-to-Chip Silicon Design Solution with Open-Source EDA, IP, and PDK",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T10:52:38+08:00",
+        "end": "2026-08-09T11:17:12+08:00",
+        "title": "Tangible Interfaces in Open Hardware: The \"Calm Tech\" Approach to IoT Configuration",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T11:30:11+08:00",
+        "end": "2026-08-09T11:59:34+08:00",
+        "title": "A Case Study in Firmware Verification: Applying Formal Methods to Intel® TDX Module",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T12:10:16+08:00",
+        "end": "2026-08-09T12:51:13+08:00",
+        "title": "從零開始建立 RISC-V 全系統模擬平台",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T13:31:07+08:00",
+        "end": "2026-08-09T14:07:10+08:00",
+        "title": "Open-Source Ecosystem for Semiconductor Design Development Programs in Japan",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T14:10:49+08:00",
+        "end": "2026-08-09T14:49:29+08:00",
+        "title": "Revolution in Chip Design - Open Source RISC-V",
+        "confidence": "high"
+      },
+      {
+        "start": "2026-08-09T15:25:22+08:00",
+        "end": "2026-08-09T15:57:17+08:00",
+        "title": "wafer.space: Open silicon manufactured for $2.50 USD per chip!",
+        "confidence": "high"
+      }
+    ]
+  }
+}

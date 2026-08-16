@@ -1,0 +1,40 @@
+{
+  "sessions": [
+    {
+      "index": 1,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 2,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 3,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 4,
+      "start": "12:59:00",
+      "end": "13:24:58",
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "start": "13:39:05",
+      "end": "14:00:58",
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "start": "14:20:10",
+      "end": "14:45:25",
+      "confidence": "high"
+    }
+  ]
+}

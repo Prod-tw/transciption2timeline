@@ -1,0 +1,34 @@
+{
+  "sessions": [
+    {
+      "index": 1,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    },
+    {
+      "index": 2,
+      "start": "10:52:50",
+      "end": "11:37:35",
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "start": "11:40:20",
+      "end": "12:10:35",
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "start": "13:29:45",
+      "end": "14:09:32",
+      "confidence": "low"
+    },
+    {
+      "index": 5,
+      "start": "",
+      "end": "",
+      "confidence": "none"
+    }
+  ]
+}

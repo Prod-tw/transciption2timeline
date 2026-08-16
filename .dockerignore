@@ -1,0 +1,11 @@
+# Dockerfile 只 COPY serve_timeline.py 與 out/timeline.json，
+# 這裡把 build context 縮到最小，別把 800K 的 CSV 跟 1.2M 的 opass.json 送進去。
+out/*
+!out/timeline.json
+opass.json
+__pycache__/
+*.pyc
+*.md
+compose.yaml
+docker-push.sh
+Dockerfile
